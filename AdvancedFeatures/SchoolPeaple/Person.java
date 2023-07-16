@@ -1,6 +1,6 @@
 package SchoolPeaple;
 
-public class Person {
+public abstract class Person {
     String name;
     String address;
 
